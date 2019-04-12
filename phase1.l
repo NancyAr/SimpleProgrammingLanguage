@@ -32,6 +32,7 @@ case                  	return CASE;
 false					return FALSE;
 true					return TRUE;
 default               	return DEFAULT;
+print        			return PRINT;
 return                	return RET;
 
 \+ 						return PLUS;
