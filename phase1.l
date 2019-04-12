@@ -39,6 +39,7 @@ return                	return RET;
 \- 						return MINUS;
 \* 					   	return MULTIPLY;
 \/ 			            return DIVIDE;
+\^                      return POWER;
 \%						return MODULUS;
 \= 						return ASSIGN;
 
